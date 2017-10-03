@@ -1,0 +1,19 @@
+{
+  "name": "graphqlGoodReads",
+  "version": "1.0.0",
+  "description": "GraphQL with GoodReads API in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JK",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.6",
+    "node-fetch": "^1.7.3",
+    "util": "^0.10.3",
+    "xml2js": "^0.4.19"
+  }
+}
